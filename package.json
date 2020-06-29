@@ -1,0 +1,18 @@
+{
+  "name": "license-discord-bot",
+  "version": "0.0.1",
+  "description": "A Discord BOT to generate and manage any kind of licences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Benitez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.1.1",
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.1"
+  }
+}
