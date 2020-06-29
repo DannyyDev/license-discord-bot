@@ -1,7 +1,7 @@
-# Discord Messager
+# Licence BOT system
 A Discord BOT to generate and manage any kind of licences.
 
-## Developed in:
+## Developed with:
 > - NodeJS
 > - sqlite
 > - discord.js
